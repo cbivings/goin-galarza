@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cbivings/goin-galarza/static/css/main.073c9b0a.css",
-    "main.js": "/cbivings/goin-galarza/static/js/main.01f606c9.js",
-    "static/js/787.3877d998.chunk.js": "/cbivings/goin-galarza/static/js/787.3877d998.chunk.js",
-    "static/media/logo.svg": "/cbivings/goin-galarza/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/cbivings/goin-galarza/index.html",
-    "main.073c9b0a.css.map": "/cbivings/goin-galarza/static/css/main.073c9b0a.css.map",
-    "main.01f606c9.js.map": "/cbivings/goin-galarza/static/js/main.01f606c9.js.map",
-    "787.3877d998.chunk.js.map": "/cbivings/goin-galarza/static/js/787.3877d998.chunk.js.map"
+    "main.css": "/goin-galarza/static/css/main.073c9b0a.css",
+    "main.js": "/goin-galarza/static/js/main.60dd4b8d.js",
+    "static/js/787.3877d998.chunk.js": "/goin-galarza/static/js/787.3877d998.chunk.js",
+    "static/media/logo.svg": "/goin-galarza/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/goin-galarza/index.html",
+    "main.073c9b0a.css.map": "/goin-galarza/static/css/main.073c9b0a.css.map",
+    "main.60dd4b8d.js.map": "/goin-galarza/static/js/main.60dd4b8d.js.map",
+    "787.3877d998.chunk.js.map": "/goin-galarza/static/js/787.3877d998.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.01f606c9.js"
+    "static/js/main.60dd4b8d.js"
   ]
 }
